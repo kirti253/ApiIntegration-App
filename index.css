@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: bisque;
+}
+.main-container-joke {
+  width: 40%;
+  /* height: 40%; */
+  padding: 20px 10px;
+  background-color: lavender;
+  position: absolute;
+  margin-top: auto;
+  top: 60%;
+  left: 50%;
+}
+span {
+  display: block;
+  text-align: center;
+  font-size: 100px;
+}
+.joke {
+  font-size: 16px;
+  color: black;
+  font-weight: 400;
+  text-align: center;
+  word-break: break-all;
+}
+.btn-joke {
+  display: block;
+  background-color: beige;
+  border: none;
+  border-radius: 15px;
+  padding: 5px;
+  font-size: 12px;
+  color: black;
+  margin: 0 auto;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 5px;
+}
